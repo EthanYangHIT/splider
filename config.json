@@ -1,0 +1,7 @@
+{
+  "baseUrl1": "https://www.google.com.hk/search?newwindow=1&safe=strict&espv=2&biw=1920&bih=950&tbm=isch&sa=1&q=KEYWORDS&oq=KEYWORDS&gs_l=img.3...36185.37444.0.37516.6.6.0.0.0.0.179.408.3j1.4.0....0...1c.1j4.64.img..2.3.334...0.stnmf6BbGpc",
+  "baseUrl2": "https://www.google.com.hk/search?async=_id:rg_s,_pms:s&ei=N_FlWMziKoGV0gS5hoLABw&espv=2&yv=2&q=KEYWORDS&start=SIZE&asearch=ichunk&newwindow=1&safe=strict&tbm=isch&vet=10ahUKEwiM2sCfmJvRAhWBipQKHTmDAHgQuT0IGCgB.N_FlWMziKoGV0gS5hoLABw.i&ved=0ahUKEwiM2sCfmJvRAhWBipQKHTmDAHgQuT0IGCgB&ijn=PAGE",
+  "size": 300,
+  "filePath": "./images/beauty/size300",
+  "keyWords": "美女"
+}

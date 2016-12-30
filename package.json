@@ -1,0 +1,28 @@
+{
+  "name": "splider",
+  "version": "1.0.0",
+  "description": "a simple nodejs splider",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanYangHIT/splider.git"
+  },
+  "keywords": [
+    "splider",
+    "node"
+  ],
+  "author": "Ethan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EthanYangHIT/splider/issues"
+  },
+  "homepage": "https://github.com/EthanYangHIT/splider#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "superagent": "^3.3.1"
+  }
+}
